@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class SortArrayListDescending{
   public static void main(String args[]){
     ArrayList<BigInteger> al = new ArrayList<>();
-    System.out.println("enter the number of elem);
+    System.out.println("enter the number of elem");
          Scanner sc = new Scanner(System.in);
                        int n = sc.nextInt();
                        BigInteger arr[] = new BigInteger[n];
